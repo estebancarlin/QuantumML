@@ -3,6 +3,7 @@
 
 This repository presents an educational exploration and comparison of **classical** and **quantum** machine learning algorithms. 
 This project was developed within the semester **Sciences de l'information et société numérique (SISN)** (Information Science and Digital Society) at **Ecole Centrale Marseille**, as part of a semester-long group assignment.
+The members of this project were : Eliott Saltre, CLément Perrin, Kris Joubi and Esteban Carlin.
 
 The project is divided into two main components:
 
