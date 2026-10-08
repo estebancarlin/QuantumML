@@ -107,3 +107,10 @@ This project is inspired and supported by the following excellent open-source re
 Special thanks to the creators and contributors of Qiskit and Scikit-learn.
 
 ---
+
+## License and provenance note for `SVMvsQSVM_cleaned.py`
+
+For the recorded source version `e43d5fd2424677643771d4e0df09117070c10280`,
+license scope and attribution/provenance details are documented in `NOTICE`.
+The repository license for team-controlled contributions is `CC0-1.0` (see
+`LICENSE`).
