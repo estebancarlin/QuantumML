@@ -107,9 +107,3 @@ This project is inspired and supported by the following excellent open-source re
 Special thanks to the creators and contributors of Qiskit and Scikit-learn.
 
 ---
-
-## License
-
-This project is intended for **educational and research use only**. Please respect the licenses of upstream repositories referenced in the Credits.
-
----
