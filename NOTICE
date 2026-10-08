@@ -1,0 +1,40 @@
+QuantumML notice for source-provenance requests (PQID)
+=====================================================
+
+Recorded source
+---------------
+- File: `SVMvsQSVM_cleaned.py`
+- Recorded Git blob: `e43d5fd2424677643771d4e0df09117070c10280`
+- Team attribution: Eliott Saltre, Clément Perrin, Kris Joubi, Esteban Carlin
+
+License and scope for team-controlled contributions
+---------------------------------------------------
+The repository `LICENSE` file applies **CC0 1.0 Universal** to contributions
+that the QuantumML team controls in this repository, including the recorded
+`SVMvsQSVM_cleaned.py` version above.
+
+Under CC0 1.0, those team-controlled contributions may be copied, adapted, and
+publicly redistributed (including code excerpts paired with generated
+instructions and explanations for model training/evaluation), including for
+commercial use, subject to CC0 terms and the rights caveats in that license.
+
+Third-party boundaries and separate terms
+-----------------------------------------
+- Python packages imported by this script (for example scikit-learn, matplotlib,
+  qiskit, qiskit-machine-learning) are external dependencies and remain under
+  their own licenses.
+- Datasets loaded at runtime (Iris and Breast Cancer via scikit-learn) remain
+  subject to their upstream terms.
+
+Upstream references named in this repository
+--------------------------------------------
+The README credits the following repositories as project inspiration:
+- `krishnakumarsekar/awesome-quantum-machine-learning` @
+  `9e12a4ffc97783cb02442612ddbeb1e5d2859b7f`
+- `mroget/Quantum-perceptron-models` @
+  `4e495c1322ce0a344544b65d8cac37128c864f51`
+
+For `SVMvsQSVM_cleaned.py`, no line-by-line code import from those two credited
+repositories is declared in this repository. They are treated here as
+bibliographic/project inspiration references rather than code sources for this
+file.

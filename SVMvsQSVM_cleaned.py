@@ -1,3 +1,11 @@
+"""SVM vs QSVM comparison experiments.
+
+SPDX-License-Identifier: CC0-1.0
+Team attribution: Eliott Saltre, Clément Perrin, Kris Joubi, Esteban Carlin.
+See NOTICE for provenance and scope details for blob
+e43d5fd2424677643771d4e0df09117070c10280.
+"""
+
 import argparse
 import numpy as np
 import matplotlib.pyplot as plt
